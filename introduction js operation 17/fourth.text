@@ -1,0 +1,21 @@
+Q4. Discuss the precedence and associativity of operators in JavaScript. Why is understanding these concepts
+important?
+ans:-
+    Operator precedence:
+            Operator precedence determines how operators are parsed concerning each other. Operators with higher 
+    precedence become the operands of operators with lower precedence
+    Operator precedence describes the order in which operations are performed in an arithmetic expression.
+
+Multiplication (*) and division (/) have higher precedence than addition (+) and subtraction (-).
+
+associativity operators :
+        Operator precedence determines how operators are parsed concerning each other. Operators with higher 
+    precedence become the operands of operators with lower precedence.
+    onsider an expression describable by the representation below, where both OP1 and OP2 are fill-in-the-blanks 
+    for OPerators.
+**Mastering operator precedence and associativity is essential for writing clear, bug-free code. By understanding 
+these concepts, you can better predict how your code will execute and avoid common pitfalls that can lead to
+ unexpected behavior.
+
+
+    

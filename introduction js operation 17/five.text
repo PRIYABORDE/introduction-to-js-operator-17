@@ -1,0 +1,10 @@
+Q5. Write a JavaScript program that calculates the simple interest using the formula Simple interest =
+(principal * rate * time) / 100.
+ans:
+let P = 1, R = 1, T = 1;
+
+/* Calculate simple interest */
+let SI = (P * T * R) / 100;
+
+/* Print the resultant value of SI */
+console.log("Simple Interest = " + SI);
